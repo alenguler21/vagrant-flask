@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/flask-project":{"type":"virtualbox","guestpath":"/home/vagrant/flask-project","hostpath":"/home/alen/deneme/vagrant/python","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/alen/deneme/vagrant","disabled":false,"__vagrantfile":true}}}
